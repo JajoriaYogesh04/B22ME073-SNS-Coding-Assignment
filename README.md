@@ -57,6 +57,7 @@ Functionality Overview
 6. Plotting:
     - The script generates a figure with five subplots showing the input signal, output signal, and filtered outputs (low-pass, high-pass, and band-pass).
 
-Clone the repository to your local machine:
+GitHub link:
+https://github.com/JajoriaYogesh04/B22ME073-SNS-Coding-Assignment/blob/3269ba47a837f292c2d40e4757cf84c54c7ff19a/README.md
 
 
