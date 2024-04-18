@@ -57,3 +57,6 @@ Functionality Overview
 6. Plotting:
     - The script generates a figure with five subplots showing the input signal, output signal, and filtered outputs (low-pass, high-pass, and band-pass).
 
+Clone the repository to your local machine:
+
+
